@@ -43,15 +43,23 @@ Dashboard 1 Requirements:
     View 6: Build a HEAT MAP showing several health factors by Age group
     <br>
   Story Requirements:
+  <br>
                       Story Name: Healthcare
+                      <br>
                       Story Title: Healthcare Summary Report
+                      <br>
                       Story size:  Custom Size (best choice)
+                      <br>
                       Story Layout: Navigator style should be set to Numbers
+                      <br>
                       Story Point 1: Should contain Dashboard 1
+                      <br>
                       Story Point 2: Should contain Dashboard 2
+                      <br>
                       Story Point 3: Should contain Heat Map Worksheet
     <br>
     Project Requirement:
+    <br>
                       The Workbook should have a Story consisting of several Story points based on the requirement.
                       All worksheets should be hidden.
                       Copy-Paste the screenshots for every view in a word document and upload the document for verification.
