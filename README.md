@@ -57,10 +57,10 @@ Use the average BMI to color the palette using shades of Red.
 Single Bar showing percent distribution of patients by BMI type
             
 Create a calculated field to classify Patients by BMI types.
-            - 'Underweight'
-            - 'Healthy Weight'
-            - 'Overweight'
-            - 'Obese'
+ - 'Underweight'
+ - 'Healthy Weight'
+ - 'Overweight'
+ - 'Obese'
 Enable Action filters.
  
 **View 5:**
@@ -73,18 +73,18 @@ Build a HEAT MAP showing several health factors by Age group
    
 **Story Requirements:**
 
-                      Story Name: Healthcare
+Story Name: Healthcare
                     
-                      Story Title: Healthcare Summary Report
+Story Title: Healthcare Summary Report
                       
-                      Story size:  Custom Size (best choice)
+Story size:  Custom Size (best choice)
                    
-                      Story Layout: Navigator style should be set to Numbers
+Story Layout: Navigator style should be set to Numbers
                     
-                      Story Point 1: Should contain Dashboard 1
+Story Point 1: Should contain Dashboard 1
                    
-                      Story Point 2: Should contain Dashboard 2
+Story Point 2: Should contain Dashboard 2
                      
-                      Story Point 3: Should contain Heat Map Worksheet
+Story Point 3: Should contain Heat Map Worksheet
     
    
